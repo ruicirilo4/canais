@@ -24,9 +24,9 @@ const listaCanales = {
         'ytID': 'UCTXNz3gjAypWp3EhlIATEJQ'
     },     
     'RTP 1': {
-        'nombre': 'RTP 1',
-        'm3u8URL': 'https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play',
-        'fuente': 'https://www.rtp.pt/play/direto/rtp1&autoPlay=1'
+        'nombre': 'SIC',
+        'm3u8URL': 'https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8',
+        'fuente': 'https://sic.pt/'
     },
     '24-horas-3': {
         'nombre': '24 Horas 3',
